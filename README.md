@@ -1,7 +1,6 @@
 # netflix-movie-analysis-dashboard
 This project is an end-to-end data analytics portfolio piece demonstrating data cleaning, SQL querying, and advanced Power BI visualization. The goal of this project was to analyze a dataset of movies, extract meaningful business insights regarding genres, popularity, and audience engagement, and present them in a highly interactive, premium "Midnight Tech" themed dashboard.
 
-![Power BI Dashboard](Screenshot%202026-05-28%20120917.png)
 
 ## 🛠️ Tech Stack & Tools Used
 * **Python (Jupyter Notebook):** Data cleaning, feature engineering, and database ingestion (`pandas`, `numpy`, `sqlalchemy`).
